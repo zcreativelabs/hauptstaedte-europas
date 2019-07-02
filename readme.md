@@ -50,9 +50,10 @@ Hier ist eine Checkliste für die Implementierung der Karte.
     * Gibt es Anmerkungen die du anbringen könntest um die Story hervorzuheben?
     * Für wen ist diese Karte?
     * Welchen Namen würdest du dieser Karte geben?
-8. Du kannst die Karte auch aus dem Browser exportieren und in Sketch weiter verarbeiten. Für Anmerkungen kann das zum Teil einfacher sein (Hinweis 7).
+    * Braucht deine Karte oder die Daten auf deiner Karte einen Massstab?
+8. Exportiere deine Karte aus dem Browser und verarbeite sie weiter in Sketch. Für Anmerkungen kann das zum Teil einfacher sein (Hinweis 7).
 9. Vergiss nicht die Datenquellen anzugeben
-10. Präpariere eine Visualisierung mit Anmerkungen für Twitter.
+10. Präpariere deine Visualisierung mit Anmerkungen (Titel, Visualisierung, Anmerkungen, Datenquelle).
 
 > Wenn du willst kannst du ein Gradnetz auf deiner Karte anzeigen (Hinweis 6).
 
